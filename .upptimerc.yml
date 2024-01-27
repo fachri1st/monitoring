@@ -10,7 +10,7 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: 123.231.148.54
   - name: IPv6 test
     url: forwardemail.net
     port: 80
